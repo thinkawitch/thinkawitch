@@ -10,5 +10,5 @@ My name is Andrew Sinkevitch.
 [![Shell Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0c63e4)](https://linux.die.net/man/1/bash)
 [![Tools Mysql](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0c63e4)](https://www.mysql.com)
 [![Tools Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0c63e4)](https://www.docker.com)
-[![Edito PhpStorm](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=0c63e4)](https://www.jetbrains.com/phpstorm)
+[![Editor PhpStorm](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=0c63e4)](https://www.jetbrains.com/phpstorm)
 [![Linux Mint](https://img.shields.io/badge/OS-Linux_Mint-informational?style=flat&logo=linux&logoColor=white&color=0c63e4)](https://linuxmint.com)
